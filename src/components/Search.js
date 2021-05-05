@@ -53,7 +53,6 @@ const Search = () => {
             </div>
         );
     });
-
     return(
         <div>
             <div className="ui form">
